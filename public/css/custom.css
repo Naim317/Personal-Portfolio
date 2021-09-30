@@ -1,0 +1,21 @@
+.homeImg{
+    background-image: url("../img/bCover.jpg");
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.topDiv{
+    margin-top: 120px;
+}
+.sunmitButton{
+   text-center;
+}
+body{
+
+    font-family: 'Akaya Telivigala', cursive;
+
+}
+
